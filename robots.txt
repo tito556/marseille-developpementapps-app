@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marseille.developpementapps.app/sitemap.xml
